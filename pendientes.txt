@@ -1,0 +1,26 @@
+Por hacer:
+	-github parte 2. repaso.
+
+	-clase POO 1/feb rever la parte final de la mañana. Compila o no?
+
+	-VER VERSIÓN JDK. y demás de inicializer.
+	-Concepto de inversion de control  e inyeccion de dependencias.
+
+
+JAVA:
+	-pulir excepciones un toque (lo de thorw) y clases utilitarias(Math, date y time)
+	-repasar abstracto vs interfaz
+	-
+
+SPRING
+	-Nosotros no tendremos Controller, tendremos RESTCONTROLLER	
+	
+
+	-Lombok, está bueno para simplificar lgunas clases.
+
+	-No entiendo la dif entre request param y pathvariabl
+
+
+	-@Service.
+	-Ver ejemplo de mi grupo 7
+	-	

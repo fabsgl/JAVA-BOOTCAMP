@@ -1,0 +1,47 @@
+Apuntes java:
+	Si empieza con Mayus no es PRIMITIVA: ej. String. (char si es)
+	
+POO:
+	encapsulamineot: controla acceso a datos que son de un objeto o instancia de una clase. Indicamos qué métodos y atributos son públicos para q puedan ser accedidos.
+
+Paquetes en java (conocidos como CARPETAS)
+	-Son paquetes incorporados (Built-in package)
+	-Paquetes definidos por el user (User-defines package)
+
+GETTERS y SETTERS
+HERENCIA
+SUPER Y SUB CLASE
+JAVA NO SOPORTA HERENCIA MULTIPLE (se puede lograr algo similar con interfaces)
+
+NO SE PUEDE INSTANCIAR DE SUBCLASE A SUPERCLASE
+
+Instrumento instrumentoGuitarra = new Guitarra()	SE PUEDE (No conviene porque puede pasar que algún método o atributo de guitarra no lo tenga Instrumento)
+Guitarra instrumentoGuitarra = new Instrumento()	NO SE PUEDE
+
+POLIMORFISMO
+-Universal -Adhoc  son los 2 grandes grupos
+-en total son 5 creo.
+
+GARBAGE COLLECTOR -> El que tira lo que no sirve.
+
+
+ABSTRACTOS:
+Obj Abstracto -> necesita al menos un metodo abs para serlo.
+
+
+INTERFAZ:
+En el ejemplo de interfaz ni siquiera hace falta el "public" pues todos los métodos son publicos.
+Trabajar las interfaces como "ables" para pensarlo más sencillo
+si posee ATRIBUTO debe ser STATIC FINA (constante y global).
+
+Relación entre interfaces es Herencia, pero de una interfaz con clase es "implements"??
+Interfaz List hereda de la interfaz Collectionl.
+
+
+(Explicacion de Danis?)
+Clase abstracta ._.
+Interfaz no se puede definir el esquema que tenga nuestro constructor
+
+
+
+
