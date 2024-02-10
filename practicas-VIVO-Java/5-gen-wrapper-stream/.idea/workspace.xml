@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="179b29a6-40b1-443b-ba26-113230bcfe3f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/EjercicioIntCA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/clases_abstractas_ejercicio_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/clases_abstractas_ejercicio_3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Animales/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Animales/Carnivoro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Animales/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Animales/Herviboro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Animales/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Animales/Perro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Animales/Vaca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Banco/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Banco/clases/Basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Banco/clases/Cobrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Banco/clases/Ejecutivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Banco/interfaces/ConsultaSaldo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Banco/interfaces/Deposito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Banco/interfaces/PagoServicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Banco/interfaces/RetiroEfectivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Banco/interfaces/Transaccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Banco/interfaces/Transferencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Docs/Curriculum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Docs/Documento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Docs/Imprimible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Docs/Informe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Docs/LibroPDF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4-java-abs-interf/practica-abs-intef/src/Docs/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4-java-abs-interf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../4-java-abs-interf/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2c73EaiMHbB5brCs0VZxCp9WVKx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/fgomezlaguna/Desktop/JAVA-BOOTCAMP/practicas-VIVO/5-gen-wrapper-stream"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="179b29a6-40b1-443b-ba26-113230bcfe3f" name="Changes" comment="" />
+      <created>1707448678542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707448678542</updated>
+      <workItem from="1707448679607" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

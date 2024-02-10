@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89c3cfb0-7b4f-4e3c-a745-5912a101c3e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/2-java-intro.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/out/production/2-java-intro/ej1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/out/production/2-java-intro/ej2/Avanzado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/out/production/2-java-intro/ej2/Chico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/out/production/2-java-intro/ej2/Circuito.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/out/production/2-java-intro/ej2/Inscripcion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/out/production/2-java-intro/ej2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/out/production/2-java-intro/ej2/Mediano.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/out/production/2-java-intro/ej2/Participante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/out/production/2-java-intro/ej33/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/out/production/2-java-intro/ej33/clasehija.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/out/production/2-java-intro/ej33/clasehijaAbs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/out/production/2-java-intro/ej33/clasepadre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/out/production/2-java-intro/ej33/clasepadreAbs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/src/ej1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/src/ej2/Avanzado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/src/ej2/Chico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/src/ej2/Circuito.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/src/ej2/Inscripcion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/src/ej2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/src/ej2/Mediano.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/src/ej2/Participante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/src/ej33/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/src/ej33/clasehija.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/src/ej33/clasehijaAbs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/src/ej33/clasepadre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2-java-intro/src/ej33/clasepadreAbs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/3-java-POO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/out/production/3-java-POO/distribuidora/Distribuidora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/out/production/3-java-POO/distribuidora/NoPerecedero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/out/production/3-java-POO/distribuidora/Perecedero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/out/production/3-java-POO/distribuidora/Producto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/out/production/3-java-POO/exceptions/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/out/production/3-java-POO/exceptions/PracticaExcepciones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/out/production/3-java-POO/persona/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/out/production/3-java-POO/persona/Persona.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/src/distribuidora/Distribuidora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/src/distribuidora/NoPerecedero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/src/distribuidora/Perecedero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/src/distribuidora/Producto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/src/exceptions/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/src/exceptions/PracticaExcepciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/src/persona/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../3-java-POO/src/persona/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-java-abs-interf/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-java-abs-interf/.idea/4-java-abs-interf.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-java-abs-interf/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-java-abs-interf/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-java-abs-interf/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-java-abs-interf/practica-abs-intef/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-java-abs-interf/practica-abs-intef/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-java-abs-interf/practica-abs-intef/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../4-java-abs-interf/practica-abs-intef/practica-abs-intef.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../agencia-turismo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../agencia-turismo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../agencia-turismo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../agencia-turismo/agencia-turismo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../agencia-turismo/src/turismo/Localizador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../agencia-turismo/src/turismo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/integradores1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/out/production/integradores1/integ1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/out/production/integradores1/integ1/Prototipo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/out/production/integradores1/integ1/SerieDeA2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/out/production/integradores1/integ2/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/out/production/integradores1/integ2/Factura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/out/production/integradores1/integ2/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/out/production/integradores1/integ2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/out/production/integradores1/integ2/Supermercado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/src/integ1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/src/integ1/Prototipo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/src/integ1/SerieDeA2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/src/integ2/Cliente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/src/integ2/Factura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/src/integ2/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/src/integ2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../integradores1/src/integ2/Supermercado.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2c73IVFUWssgwvunYQAnEVx59Wf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vehiculos.Main" />
+      <module name="gen-wrapper-stream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vehiculos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89c3cfb0-7b4f-4e3c-a745-5912a101c3e5" name="Changes" comment="" />
+      <created>1707448711973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707448711973</updated>
+      <workItem from="1707448713045" duration="1885000" />
+      <workItem from="1707494496178" duration="2186000" />
+      <workItem from="1707506822464" duration="417000" />
+      <workItem from="1707507247662" duration="151000" />
+      <workItem from="1707518748203" duration="4779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
